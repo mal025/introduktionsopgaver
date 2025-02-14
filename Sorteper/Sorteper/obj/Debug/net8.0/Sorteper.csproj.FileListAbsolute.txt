@@ -1,0 +1,14 @@
+C:\Users\mathi\source\repos\Sorteper\Sorteper\obj\Debug\net8.0\Sorteper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathi\source\repos\Sorteper\Sorteper\obj\Debug\net8.0\Sorteper.AssemblyInfoInputs.cache
+C:\Users\mathi\source\repos\Sorteper\Sorteper\obj\Debug\net8.0\Sorteper.AssemblyInfo.cs
+C:\Users\mathi\source\repos\Sorteper\Sorteper\obj\Debug\net8.0\Sorteper.csproj.CoreCompileInputs.cache
+C:\Users\mathi\source\repos\Sorteper\Sorteper\bin\Debug\net8.0\Sorteper.exe
+C:\Users\mathi\source\repos\Sorteper\Sorteper\bin\Debug\net8.0\Sorteper.deps.json
+C:\Users\mathi\source\repos\Sorteper\Sorteper\bin\Debug\net8.0\Sorteper.runtimeconfig.json
+C:\Users\mathi\source\repos\Sorteper\Sorteper\bin\Debug\net8.0\Sorteper.dll
+C:\Users\mathi\source\repos\Sorteper\Sorteper\bin\Debug\net8.0\Sorteper.pdb
+C:\Users\mathi\source\repos\Sorteper\Sorteper\obj\Debug\net8.0\Sorteper.dll
+C:\Users\mathi\source\repos\Sorteper\Sorteper\obj\Debug\net8.0\refint\Sorteper.dll
+C:\Users\mathi\source\repos\Sorteper\Sorteper\obj\Debug\net8.0\Sorteper.pdb
+C:\Users\mathi\source\repos\Sorteper\Sorteper\obj\Debug\net8.0\Sorteper.genruntimeconfig.cache
+C:\Users\mathi\source\repos\Sorteper\Sorteper\obj\Debug\net8.0\ref\Sorteper.dll

@@ -1,0 +1,14 @@
+C:\Users\mathi\source\repos\LottoTal\LottoTal\bin\Debug\net8.0\LottoTal.exe
+C:\Users\mathi\source\repos\LottoTal\LottoTal\bin\Debug\net8.0\LottoTal.deps.json
+C:\Users\mathi\source\repos\LottoTal\LottoTal\bin\Debug\net8.0\LottoTal.runtimeconfig.json
+C:\Users\mathi\source\repos\LottoTal\LottoTal\bin\Debug\net8.0\LottoTal.dll
+C:\Users\mathi\source\repos\LottoTal\LottoTal\bin\Debug\net8.0\LottoTal.pdb
+C:\Users\mathi\source\repos\LottoTal\LottoTal\obj\Debug\net8.0\LottoTal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathi\source\repos\LottoTal\LottoTal\obj\Debug\net8.0\LottoTal.AssemblyInfoInputs.cache
+C:\Users\mathi\source\repos\LottoTal\LottoTal\obj\Debug\net8.0\LottoTal.AssemblyInfo.cs
+C:\Users\mathi\source\repos\LottoTal\LottoTal\obj\Debug\net8.0\LottoTal.csproj.CoreCompileInputs.cache
+C:\Users\mathi\source\repos\LottoTal\LottoTal\obj\Debug\net8.0\LottoTal.dll
+C:\Users\mathi\source\repos\LottoTal\LottoTal\obj\Debug\net8.0\refint\LottoTal.dll
+C:\Users\mathi\source\repos\LottoTal\LottoTal\obj\Debug\net8.0\LottoTal.pdb
+C:\Users\mathi\source\repos\LottoTal\LottoTal\obj\Debug\net8.0\LottoTal.genruntimeconfig.cache
+C:\Users\mathi\source\repos\LottoTal\LottoTal\obj\Debug\net8.0\ref\LottoTal.dll

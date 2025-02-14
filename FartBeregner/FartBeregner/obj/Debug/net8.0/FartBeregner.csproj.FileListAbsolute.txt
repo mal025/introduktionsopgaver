@@ -1,0 +1,14 @@
+C:\Users\mathi\source\repos\FartBeregner\FartBeregner\bin\Debug\net8.0\FartBeregner.exe
+C:\Users\mathi\source\repos\FartBeregner\FartBeregner\bin\Debug\net8.0\FartBeregner.deps.json
+C:\Users\mathi\source\repos\FartBeregner\FartBeregner\bin\Debug\net8.0\FartBeregner.runtimeconfig.json
+C:\Users\mathi\source\repos\FartBeregner\FartBeregner\bin\Debug\net8.0\FartBeregner.dll
+C:\Users\mathi\source\repos\FartBeregner\FartBeregner\bin\Debug\net8.0\FartBeregner.pdb
+C:\Users\mathi\source\repos\FartBeregner\FartBeregner\obj\Debug\net8.0\FartBeregner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathi\source\repos\FartBeregner\FartBeregner\obj\Debug\net8.0\FartBeregner.AssemblyInfoInputs.cache
+C:\Users\mathi\source\repos\FartBeregner\FartBeregner\obj\Debug\net8.0\FartBeregner.AssemblyInfo.cs
+C:\Users\mathi\source\repos\FartBeregner\FartBeregner\obj\Debug\net8.0\FartBeregner.csproj.CoreCompileInputs.cache
+C:\Users\mathi\source\repos\FartBeregner\FartBeregner\obj\Debug\net8.0\FartBeregner.dll
+C:\Users\mathi\source\repos\FartBeregner\FartBeregner\obj\Debug\net8.0\refint\FartBeregner.dll
+C:\Users\mathi\source\repos\FartBeregner\FartBeregner\obj\Debug\net8.0\FartBeregner.pdb
+C:\Users\mathi\source\repos\FartBeregner\FartBeregner\obj\Debug\net8.0\FartBeregner.genruntimeconfig.cache
+C:\Users\mathi\source\repos\FartBeregner\FartBeregner\obj\Debug\net8.0\ref\FartBeregner.dll

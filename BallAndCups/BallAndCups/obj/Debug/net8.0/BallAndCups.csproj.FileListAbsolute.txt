@@ -1,0 +1,14 @@
+C:\Users\mathi\source\repos\BallAndCups\BallAndCups\bin\Debug\net8.0\BallAndCups.exe
+C:\Users\mathi\source\repos\BallAndCups\BallAndCups\bin\Debug\net8.0\BallAndCups.deps.json
+C:\Users\mathi\source\repos\BallAndCups\BallAndCups\bin\Debug\net8.0\BallAndCups.runtimeconfig.json
+C:\Users\mathi\source\repos\BallAndCups\BallAndCups\bin\Debug\net8.0\BallAndCups.dll
+C:\Users\mathi\source\repos\BallAndCups\BallAndCups\bin\Debug\net8.0\BallAndCups.pdb
+C:\Users\mathi\source\repos\BallAndCups\BallAndCups\obj\Debug\net8.0\BallAndCups.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathi\source\repos\BallAndCups\BallAndCups\obj\Debug\net8.0\BallAndCups.AssemblyInfoInputs.cache
+C:\Users\mathi\source\repos\BallAndCups\BallAndCups\obj\Debug\net8.0\BallAndCups.AssemblyInfo.cs
+C:\Users\mathi\source\repos\BallAndCups\BallAndCups\obj\Debug\net8.0\BallAndCups.csproj.CoreCompileInputs.cache
+C:\Users\mathi\source\repos\BallAndCups\BallAndCups\obj\Debug\net8.0\BallAndCups.dll
+C:\Users\mathi\source\repos\BallAndCups\BallAndCups\obj\Debug\net8.0\refint\BallAndCups.dll
+C:\Users\mathi\source\repos\BallAndCups\BallAndCups\obj\Debug\net8.0\BallAndCups.pdb
+C:\Users\mathi\source\repos\BallAndCups\BallAndCups\obj\Debug\net8.0\BallAndCups.genruntimeconfig.cache
+C:\Users\mathi\source\repos\BallAndCups\BallAndCups\obj\Debug\net8.0\ref\BallAndCups.dll
